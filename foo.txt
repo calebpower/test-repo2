@@ -1,1 +1,1 @@
-Hello, world! My name is Alice! Bob was here.
+Hello, world! My name is Alice! Alice is the coolest and Bob was here.
